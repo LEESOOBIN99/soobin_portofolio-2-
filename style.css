@@ -73,11 +73,11 @@ body,html{
   cursor: pointer;
   z-index: 10;
   position: absolute;
-  top: 51%; left: 11%;
+  top: 52%; left: 8%;
   border: 1px solid #ddd;
   border-radius: 50px;
   width: 250px;
-  height: 80px;
+  height: 70px;
   background-color: white;
 }
 #section-5{
@@ -90,11 +90,11 @@ body,html{
   cursor: pointer;
   z-index: 10;
   position: absolute;
-  top: 50%; left: 6%;
+  top: 60%; left: 6%;
   border: 1px solid #ddd;
   border-radius: 50px;
   width: 250px;
-  height: 80px;
+  height: 70px;
   background-color: white;
 }
 
@@ -112,11 +112,11 @@ body,html{
   cursor: pointer;
   z-index: 10;
   position: absolute;
-  top: 54%; left: 7%;
+  top: 55%; left: 7.5%;
   border: 1px solid #ddd;
   border-radius: 50px;
   width: 250px;
-  height: 80px;
+  height: 70px;
   background-color: white;
 }
 
@@ -134,11 +134,11 @@ body,html{
   cursor: pointer;
   z-index: 10;
   position: absolute;
-  top: 54%; left: 7%;
+  top: 67%; left: 7%;
   border: 1px solid #ddd;
   border-radius: 50px;
   width: 250px;
-  height: 80px;
+  height: 70px;
   background-color: white;
 }
 
@@ -171,7 +171,7 @@ body,html{
   border: 1px solid #ddd;
   border-radius: 50px;
   width: 250px;
-  height: 80px;
+  height: 70px;
   background-color: white;
 }
 
@@ -204,6 +204,6 @@ body,html{
   border: 1px solid #ddd;
   border-radius: 50px;
   width: 250px;
-  height: 80px;
+  height: 70px;
   background-color: white;
 }
