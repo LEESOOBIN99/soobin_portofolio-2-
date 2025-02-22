@@ -200,7 +200,7 @@ body,html{
   cursor: pointer;
   z-index: 10;
   position: absolute;
-  top: 60%; left: 6%;
+  top: 60%; left: 7%;
   border: 1px solid #ddd;
   border-radius: 50px;
   width: 250px;
